@@ -8,6 +8,7 @@ Original App Design Project - README Template
 1. [Overview](#Overview)
 1. [Product Spec](#Product-Spec)
 1. [Wireframes](#Wireframes)
+2.  [Schema](#Schema)
 
 ## Overview
 ### Description
@@ -125,4 +126,76 @@ Home screen => Post Screen
 ### [BONUS] Interactive Prototype
 
 
+### Models
+[Add table of models]
+### Networking
+
+ Home Feed Screen
+ 
+(Read/GET) Query all posts where user is author
+
+let query = PFQuery(username:"Post")
+
+query.whereKey("author", equalTo: currentUser)
+
+query.order(byDescending: "createdAt")
+
+query.findObjectsInBackground { (posts: [PFObject]?, error: Error?) in
+
+if let error = error { 
+
+print(error.localizedDescription)
+
+} else if let posts = posts {
+
+print("Successfully retrieved \(posts.count) posts.")
+
+// TODO: Do something with posts...
+
+}
+
+}
+
+(Create/POST) Create a new like on a post
+
+(Delete) Delete existing like
+
+(Create/POST) Create a new comment on a post
+
+(Delete) Delete existing comment
+
+(Read/Post) search and post location 
+
+Create Post Screen
+
+(Create/POST) Create a new post object
+
+Profile Screen
+
+(Read/GET) Query logged in user object
+
+(Update/PUT) Update user profile image
+
+Message screen
+
+- (Create/ Send) Create new message
+
+-  (Read/Get) Read and Reply to messages
+
+- Login Screen
+
+- (Insert) Insert username 
+
+-  (Insert) Insert password 
+
+
+
+Register Screen (New Account) 
+- (Create/Get) Insert First Name
+
+- (Create/Get) Insert Last name
+
+- (Create) Create new username 
+
+- (Create) Create new Password
 
