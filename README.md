@@ -128,6 +128,9 @@ Home screen => Post Screen
 
 ### Models
 [Add table of models]
+![Login model](https://user-images.githubusercontent.com/32984556/111934449-6be41c00-8a8f-11eb-8f6f-d479ce532819.JPG)
+
+
 ### Networking
 
  Home Feed Screen
