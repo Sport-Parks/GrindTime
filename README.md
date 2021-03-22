@@ -129,6 +129,8 @@ Home screen => Post Screen
 ### Models
 ![Login model](https://user-images.githubusercontent.com/32984556/111934449-6be41c00-8a8f-11eb-8f6f-d479ce532819.JPG)
 ![User Profile Model](https://user-images.githubusercontent.com/32984556/111934645-d2693a00-8a8f-11eb-8759-a2ea688ad027.JPG)
+![Post Model](https://user-images.githubusercontent.com/32984556/111935106-be720800-8a90-11eb-8621-67825ebc6990.JPG)
+![Messages Model](https://user-images.githubusercontent.com/32984556/111935234-0abd4800-8a91-11eb-8e6e-71100fade4e2.JPG)
 
 
 ### Networking
