@@ -212,3 +212,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src=' ' width='' alt='Video Walkthrough' />
 
+<img src='https://github.com/Sport-Parks/GrindTime/blob/main/gif' width='' alt='Video Walkthrough' />
+
+https://github.com/Sport-Parks/GrindTime/blob/main/gif
