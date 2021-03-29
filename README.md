@@ -210,5 +210,5 @@ Gif:
 
 Here's a walkthrough of implemented user stories:
 
-<img src=' https://imgflip.com/gif/53k2ua ' width='' alt='Video Walkthrough' />
+<img src='https://imgflip.com/gif/53k2ua' width='' alt='Video Walkthrough' />
 
