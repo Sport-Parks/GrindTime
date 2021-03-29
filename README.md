@@ -36,29 +36,29 @@ Original App Design Project - README Template
 
 **Required Must-have Stories**
 
-User being able to log in
+- [x] User being able to log in
 
-User being able to sign up for an account
+- [x] User being able to sign up for an account
 
-Users will be able to make a profile
+- [] Users will be able to make a profile
 
-User will be able to chat with other users
+- [] User will be able to chat with other users
 
-Users will be able to scroll through out which parks are for which sport 
+- [] Users will be able to scroll through out which parks are for which sport 
 
-Users will be able to comment
+- [] Users will be able to comment
 
-User can log out
+- [] User can log out
 
 
 
 **Optional Nice-to-have Stories**
 
-Users will be able to post pictures 
+- [] Users will be able to post pictures 
 
-User will be able to stay logged in 
+- [] User will be able to stay logged in 
 
-user able to add a profile pic
+- [] user able to add a profile pic
  
 
 
@@ -203,4 +203,11 @@ Register Screen (New Account)
 - (Create) Create new username 
 
 - (Create) Create new Password
+
+
+Gif:
+
+Here's a walkthrough of implemented user stories:
+
+<img src=' ' width='' alt='Video Walkthrough' />
 
