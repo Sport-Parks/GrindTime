@@ -205,10 +205,10 @@ Register Screen (New Account)
 - (Create) Create new Password
 
 
-Gif: 
-
+Gif:
+https://imgflip.com/gif/53k2ua
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgflip.com/gif/53k2ua' width='' alt='Video Walkthrough' />
+<img src=' ' width='' alt='Video Walkthrough' />
 
