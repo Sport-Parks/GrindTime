@@ -205,7 +205,8 @@ Register Screen (New Account)
 - (Create) Create new Password
 
 
-Gif:
+Gif: https://imgflip.com/gif/53k2ua
+
 
 Here's a walkthrough of implemented user stories:
 
