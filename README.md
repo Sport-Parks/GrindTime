@@ -48,7 +48,7 @@ Original App Design Project - README Template
 
 - [] Users will be able to comment
 
-- [] User can log out
+- [x] User can log out
 
 
 
