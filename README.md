@@ -213,3 +213,5 @@ Here's a walkthrough of implemented user stories:
 <img src='https://github.com/Sport-Parks/GrindTime/blob/main/(GrindTime)ezgif.com-gif-maker%20(2).gif' width='' alt='Video Walkthrough' />
 
 
+
+<img src='https://github.com/Sport-Parks/GrindTime/blob/main/GrindTimeCurrentWork.gif' width='' alt='Video Walkthrough' />
