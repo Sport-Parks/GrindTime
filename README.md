@@ -50,6 +50,10 @@ Original App Design Project - README Template
 
 - [x] User can log out
 
+- [x] User will be able to go from one screen to the next 
+
+- [x] User will be able to backtrack to previous screens via a back tab bar button
+
 
 
 **Optional Nice-to-have Stories**
