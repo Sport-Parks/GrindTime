@@ -60,7 +60,7 @@ Original App Design Project - README Template
 
 - [] Users will be able to post pictures 
 
-- [] User will be able to stay logged in 
+- [x] User will be able to stay logged in 
 
 - [] user able to add a profile pic
  
