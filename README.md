@@ -46,7 +46,7 @@ Original App Design Project - README Template
 
 - [] Users will be able to scroll through out which parks are for which sport 
 
-- [] Users will be able to comment
+- [x] Users will be able to comment
 
 - [x] User can log out
 
@@ -62,7 +62,9 @@ Original App Design Project - README Template
 
 - [x] User will be able to stay logged in 
 
-- [] user able to add a profile pic
+- [x] user able to add a profile pic
+
+- [x] user able to stay logged in
  
 
 
@@ -219,3 +221,7 @@ Here's a walkthrough of implemented user stories:
 
 
 <img src='https://github.com/Sport-Parks/GrindTime/blob/main/GrindTimeCurrentWork.gif' width='' alt='Video Walkthrough' />
+
+
+
+<img src=' ' width='' alt='Video Walkthrough' />
