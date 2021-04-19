@@ -55,6 +55,7 @@ Original App Design Project - README Template
 
 
 **Optional Nice-to-have Stories**
+-[ ] user will be able to post their own pics
 
 - [x] User will be able to stay logged in 
 
