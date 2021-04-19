@@ -40,11 +40,9 @@ Original App Design Project - README Template
 
 - [x] User being able to sign up for an account
 
-- [] Users will be able to make a profile
+- [x] Users will be able to make a profile (1/2 got done)
 
-- [] User will be able to chat with other users
-
-- [] Users will be able to scroll through out which parks are for which sport 
+- [x] User will be able to chat with other users (1/2 got done)
 
 - [x] Users will be able to comment
 
@@ -57,8 +55,6 @@ Original App Design Project - README Template
 
 
 **Optional Nice-to-have Stories**
-
-- [] Users will be able to post pictures 
 
 - [x] User will be able to stay logged in 
 
@@ -227,3 +223,4 @@ Here's a walkthrough of implemented user stories:
 <img src='https://github.com/Sport-Parks/GrindTime/blob/main/ezgif.com-gif-maker(GrindTime).gif' width='' alt='Video Walkthrough' />
 
 
+<img src='https://github.com/Sport-Parks/GrindTime/blob/main/ezgif.com-gif-maker%20(GrindTime).gif' width='' alt='Video Walkthrough' />
